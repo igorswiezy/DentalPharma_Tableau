@@ -1,8 +1,7 @@
 # data_analysis
 
-AusEnergy Energy demand Analysis 2023
+DentalPharma Budget and Sales Analysis 2023
 
-Energy demand analysis processed by me for AusEnergy this year.
-Contains total of demand in MWh and revenue with analysis how weather(such as Solar Exposure, temperature and rainfall) affects both demand and revenue for the company.
+Tableau dashboard created for the Client, DentalPharma, in regards of their yearly budget and planning.
 
-Presentation of provided spreadsheet with all the charts and tables wth my insights of what does they mean.
+Quick dashboard mockup used to plan whole project before approaching.
